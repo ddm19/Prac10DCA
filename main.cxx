@@ -5,13 +5,14 @@ int main() {
 
   int first_number, second_number, sum;
     
-  cout << "Enter two integers: ";
+  cout << "Enter two intefafsggers: ";
   cin >> first_number >> second_number;
 
   // sum of two numbers in stored in variable sumOfTwoNumbers
   sum = first_number + second_number;
 
   // prints sum 
+  cout << first_number << " + " <<  second_number << " = " << sum;     
 
-  return 0;
+  return 0;sdgsgsgds
 }
