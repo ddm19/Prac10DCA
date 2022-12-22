@@ -10,6 +10,7 @@ int main() {
 
   // sum of two numbers in stored in variable sumOfTwoNumbers
   //AAA
+  //AJSDBGKJBD
   sum = first_number + second_number;
 
   // prints sum 
